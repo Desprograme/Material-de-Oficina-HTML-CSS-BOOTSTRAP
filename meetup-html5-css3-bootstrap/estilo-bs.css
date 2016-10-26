@@ -1,0 +1,20 @@
+article {
+	margin-bottom: 40px;
+}
+
+main {
+	margin-top: 100px;
+}
+
+#secao-compartilhe {
+	border: solid 1px #CCC;
+	padding: 20px;
+	border-radius: 6px;
+}
+
+footer {
+	background-color: #EEE;
+	padding: 20px;
+	border-radius: 6px;
+	margin-top: 20px;
+}

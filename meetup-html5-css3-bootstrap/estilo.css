@@ -1,0 +1,141 @@
+body {
+	font-family: Arial, sans-serif;
+	color: #444;
+}
+
+header {
+	background-color: #3B99B5;
+	color: #FFF;
+	margin-bottom: 40px;
+	padding: 20px;
+	margin-top: 40px;
+}
+
+h1 {
+	font-size: 40px;
+	margin-bottom: 0px;
+}
+
+footer {
+	border: solid 1px #3B99B5;
+	color: #3B99B5;
+	padding: 20px;
+	margin-bottom: 40px;
+}
+
+section {
+	border: solid 1px #3B99B5;
+	margin-bottom: 40px;
+	padding: 20px;
+}
+
+header, section, footer {
+	border-radius: 10px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+button {
+	background-color: #FF8219;
+	color: #FFF;
+	border: none;
+	padding: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+img {
+	width: 240px;
+}
+
+article {
+	display: flex;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover {
+	text-decoration: underline;
+} 
+
+section a {
+	color: #3B99B5;
+}
+
+#secao-compartilhe {
+	background-color: #3B99B5;
+	color: #FFF;
+}
+
+#secao-cinema button {
+	background-color: #91125C;
+}
+
+#secao-cinema button:hover {
+	background-color: #FFF;
+	color: #91125C;
+	border: solid 1px #91125C;
+}
+
+#secao-series button {
+	background-color: #FFE119;
+	color: #444;
+}
+
+#secao-series button:hover {
+	background-color: #FFF;
+	color: #FFE119;
+	border: solid 1px #FFE119;
+}
+
+#secao-musica button {
+	background-color: #FF0095;
+}
+
+#secao-musica button:hover {
+	background-color: #FFF;
+	color: #FF0095;
+	border: solid 1px #FF0095;
+}
+
+#secao-musica table {
+	margin-bottom: 20px;
+}
+
+.border-title {
+	border-bottom: solid 1px #CCC;
+}
+
+header ul {
+	padding-left: 0;
+	margin-top: 40px;
+}
+
+header ul li {
+	list-style: none;
+	display: inline;
+	margin-right: 10px;
+	font-size: 20px;
+	border-right: solid 1px #FFF;
+	padding-right: 10px;
+}
+
+header ul li:last-child {
+	border: none;
+}
+
+header .descricao {
+	margin-top: 0;
+}
+
+form input[type="text"] {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.botoes {
+	margin-top: 20px; 
+}
