@@ -4,7 +4,7 @@ Trilha Front-end
 
 DESVENDANDO CSS + BOOTSTRAP
 
-vídeo da aula
+vídeo da aula <br>
 Parte 1 - https://www.youtube.com/watch?v=tZ-OdWzAVTs <br>
 Parte 2 - https://www.youtube.com/watch?v=xDoZspVAVKU <br>
 Parte 3 - https://www.youtube.com/watch?v=GQonWewip1M <br>
